@@ -1,0 +1,298 @@
+{
+ "v": 1,
+ "built": "2026-10-17T14:37:43.723Z",
+ "source": "OpenStreetMap / OpenMapTiles (planetiler)",
+ "attribution": "© OpenMapTiles © OpenStreetMap contributors",
+ "base": {
+  "file": "base.pmtiles",
+  "bytes": 1063756,
+  "maxZoom": 8
+ },
+ "packs": [
+  {
+   "id": "duhok",
+   "name": "محافظة دهوك",
+   "nameEn": "Duhok Governorate",
+   "bbox": [
+    42.3283,
+    36.7102,
+    44.1209,
+    37.4007
+   ],
+   "tiles": 4059,
+   "tilesBytes": 14729060,
+   "gazetteerBytes": 362578,
+   "places": 4814
+  },
+  {
+   "id": "erbil",
+   "name": "محافظة أربيل",
+   "nameEn": "Erbil Governorate",
+   "bbox": [
+    43.5692,
+    35.7532,
+    45.0919,
+    37.343
+   ],
+   "tiles": 8063,
+   "tilesBytes": 29228796,
+   "gazetteerBytes": 890898,
+   "places": 11070
+  },
+  {
+   "id": "kirkuk",
+   "name": "محافظة كركوك",
+   "nameEn": "Kirkuk Governorate",
+   "bbox": [
+    43.3319,
+    34.6661,
+    44.8188,
+    35.929
+   ],
+   "tiles": 6545,
+   "tilesBytes": 14438870,
+   "gazetteerBytes": 322190,
+   "places": 3626
+  },
+  {
+   "id": "nineveh",
+   "name": "محافظة نینوى",
+   "nameEn": "Nineveh Governorate",
+   "bbox": [
+    41.1907,
+    34.8778,
+    44.3241,
+    37.0808
+   ],
+   "tiles": 18857,
+   "tilesBytes": 42856624,
+   "gazetteerBytes": 671330,
+   "places": 7873
+  },
+  {
+   "id": "sulaymaniyah",
+   "name": "محافظة السليمانية",
+   "nameEn": "Sulaymaniyah Governorate",
+   "bbox": [
+    44.5067,
+    34.5252,
+    46.3671,
+    36.5404
+   ],
+   "tiles": 10064,
+   "tilesBytes": 27168840,
+   "gazetteerBytes": 1043021,
+   "places": 13627
+  },
+  {
+   "id": "anbar",
+   "name": "محافظة الأنبار",
+   "nameEn": "Al-Anbar Governorate",
+   "bbox": [
+    38.7726,
+    30.6531,
+    44.1788,
+    35.1304
+   ],
+   "tiles": 28824,
+   "tilesBytes": 25904393,
+   "gazetteerBytes": 234567,
+   "places": 2684
+  },
+  {
+   "id": "baghdad",
+   "name": "محافظة بغداد",
+   "nameEn": "Baghdad Governorate",
+   "bbox": [
+    43.8252,
+    32.8162,
+    44.9892,
+    33.7948
+   ],
+   "tiles": 3577,
+   "tilesBytes": 16058635,
+   "gazetteerBytes": 1988932,
+   "places": 25321
+  },
+  {
+   "id": "diyala",
+   "name": "محافظة ديالى",
+   "nameEn": "Diyala Governorate",
+   "bbox": [
+    44.2686,
+    33.0978,
+    46.0278,
+    35.1294
+   ],
+   "tiles": 9932,
+   "tilesBytes": 28517663,
+   "gazetteerBytes": 328291,
+   "places": 3625
+  },
+  {
+   "id": "saladin",
+   "name": "محافظة صلاح الدين",
+   "nameEn": "Saladin Governorate",
+   "bbox": [
+    42.4041,
+    33.6266,
+    44.9652,
+    35.7179
+   ],
+   "tiles": 16330,
+   "tilesBytes": 29149578,
+   "gazetteerBytes": 352476,
+   "places": 3841
+  },
+  {
+   "id": "qadisiyah",
+   "name": "محافظة القادسية",
+   "nameEn": "Al-Qadisiyah Governorate",
+   "bbox": [
+    44.3365,
+    31.2747,
+    45.8181,
+    32.4383
+   ],
+   "tiles": 5098,
+   "tilesBytes": 9159983,
+   "gazetteerBytes": 118357,
+   "places": 1269
+  },
+  {
+   "id": "babil",
+   "name": "محافظة بابل",
+   "nameEn": "Babil Governorate",
+   "bbox": [
+    44.0108,
+    32.0788,
+    45.1766,
+    33.1068
+   ],
+   "tiles": 3932,
+   "tilesBytes": 10715431,
+   "gazetteerBytes": 186364,
+   "places": 2019
+  },
+  {
+   "id": "basra",
+   "name": "محافظة البصرة",
+   "nameEn": "Basra Governorate",
+   "bbox": [
+    46.5468,
+    29.0996,
+    49.1268,
+    31.3085
+   ],
+   "tiles": 11138,
+   "tilesBytes": 9384360,
+   "gazetteerBytes": 478723,
+   "places": 5208
+  },
+  {
+   "id": "dhiqar",
+   "name": "محافظة ذي قار",
+   "nameEn": "Dhi Qar Governorate",
+   "bbox": [
+    45.6094,
+    30.509,
+    47.159,
+    32.0236
+   ],
+   "tiles": 6964,
+   "tilesBytes": 7137178,
+   "gazetteerBytes": 235202,
+   "places": 2468
+  },
+  {
+   "id": "karbala",
+   "name": "محافظة كربلاء",
+   "nameEn": "Karbala Governorate",
+   "bbox": [
+    43.237,
+    32.1387,
+    44.3302,
+    32.867
+   ],
+   "tiles": 2046,
+   "tilesBytes": 5509877,
+   "gazetteerBytes": 370077,
+   "places": 3698
+  },
+  {
+   "id": "maysan",
+   "name": "محافظة ميسان",
+   "nameEn": "Maysan Governorate",
+   "bbox": [
+    46.3021,
+    31.1051,
+    47.8859,
+    32.8876
+   ],
+   "tiles": 6279,
+   "tilesBytes": 4810123,
+   "gazetteerBytes": 97408,
+   "places": 1102
+  },
+  {
+   "id": "muthanna",
+   "name": "محافظة المثنى",
+   "nameEn": "Muthanna Governorate",
+   "bbox": [
+    43.793,
+    29.0386,
+    46.7687,
+    31.7746
+   ],
+   "tiles": 14737,
+   "tilesBytes": 9456695,
+   "gazetteerBytes": 130961,
+   "places": 1476
+  },
+  {
+   "id": "najaf",
+   "name": "محافظة النجف",
+   "nameEn": "Al-Najaf Governorate",
+   "bbox": [
+    42.6857,
+    29.8526,
+    44.7886,
+    32.382
+   ],
+   "tiles": 5575,
+   "tilesBytes": 7051548,
+   "gazetteerBytes": 401854,
+   "places": 4400
+  },
+  {
+   "id": "wasit",
+   "name": "محافظة واسط",
+   "nameEn": "Wasit Governorate",
+   "bbox": [
+    44.5143,
+    31.9544,
+    46.5854,
+    33.5091
+   ],
+   "tiles": 8146,
+   "tilesBytes": 9228762,
+   "gazetteerBytes": 100340,
+   "places": 1124
+  },
+  {
+   "id": "halabja",
+   "name": "محافظة حلبجة",
+   "nameEn": "Halabja Governorate",
+   "bbox": [
+    45.7776,
+    35.018,
+    46.2236,
+    35.4805
+   ],
+   "tiles": 773,
+   "tilesBytes": 2751114,
+   "gazetteerBytes": 36556,
+   "places": 434
+  }
+ ]
+}
