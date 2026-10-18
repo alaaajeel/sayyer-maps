@@ -2,7 +2,7 @@
  "v": 1,
  "built": "2026-10-17T14:37:43.723Z",
  "source": "OpenStreetMap / OpenMapTiles (planetiler)",
- "attribution": "© OpenMapTiles © OpenStreetMap contributors",
+ "attribution": "© OpenMapTiles © OpenStreetMap contributors (ODbL)",
  "base": {
   "file": "base.pmtiles",
   "bytes": 1063756,
@@ -22,7 +22,13 @@
    "tiles": 4059,
    "tilesBytes": 14729060,
    "gazetteerBytes": 362578,
-   "places": 4814
+   "places": 4814,
+   "tilesSha256": "7021e934e46c262057d71ec3047a4f8f60124976486cbb55a35ab7d386ccd0de",
+   "gazetteerSha256": "fad767f9a680866667d0d29dbec5abe3d258ed0c66163a1323eed5a99ead47da",
+   "graphBytes": 3903849,
+   "graphSha256": "7a3062095e30cd35c369ccd70e7b3145a39c734b6f0f102f6e3e71b1ea7b618a",
+   "placesBytes": 345461,
+   "placesSha256": "ec7d796b12ba6ee9154fc90a0baf9fbfe71ab5d64cc3ea3bba26dd4e8c5e45c5"
   },
   {
    "id": "erbil",
@@ -37,7 +43,13 @@
    "tiles": 8063,
    "tilesBytes": 29228796,
    "gazetteerBytes": 890898,
-   "places": 11070
+   "places": 11070,
+   "tilesSha256": "ac4671d6047502321763cb787f850c8de04c79904b989a733aaced448408791e",
+   "gazetteerSha256": "a546af9a53681845b1e8b8c8b3f9b13f649f2873fd03704147252ebde9f3b085",
+   "graphBytes": 7583255,
+   "graphSha256": "5945fb4f3cea4ee3ba101370ff8d4d8bd640333800ac93d146ebe599f0ccbdac",
+   "placesBytes": 953677,
+   "placesSha256": "e344d2ca4b7396e93ca68eef88b8fe1894bbf81fa22fedefbf548c49e5495013"
   },
   {
    "id": "kirkuk",
@@ -52,7 +64,13 @@
    "tiles": 6545,
    "tilesBytes": 14438870,
    "gazetteerBytes": 322190,
-   "places": 3626
+   "places": 3626,
+   "tilesSha256": "23ecd55ecaa85256d152f471fa6e55c09db5848f0a50b5796b57ef966a36ee08",
+   "gazetteerSha256": "f90efdae36b4f99358621ae2365f4efa5eca62b0ec3e09903683fac5d845d391",
+   "graphBytes": 3531084,
+   "graphSha256": "dad4dbe5a9c99137b7bfda32677b885b16445dd342c02f0a602b5ae3491b6a82",
+   "placesBytes": 381825,
+   "placesSha256": "d1029367e246d74c61e87267d5d7ad0aff6a82a3aa3fdcd3198b729c5dc87a78"
   },
   {
    "id": "nineveh",
@@ -67,7 +85,13 @@
    "tiles": 18857,
    "tilesBytes": 42856624,
    "gazetteerBytes": 671330,
-   "places": 7873
+   "places": 7873,
+   "tilesSha256": "dbc1dc895fa219cfa996242e38bf0a98c3ba0aa34201e3aa241ecc63d39d590b",
+   "gazetteerSha256": "9d223faf413dae7ff2fb5e24f08c0bb455f2a9d800657fdd6dc14c0038c81543",
+   "graphBytes": 13480739,
+   "graphSha256": "70121d5523e072c5ac13e795947d514947e62c1d89dcb6aa5331c70345415c51",
+   "placesBytes": 1502548,
+   "placesSha256": "dafb60f0c3b059f604292a05b863b22fcc7375fc0aa72570ce519c97f8f7d281"
   },
   {
    "id": "sulaymaniyah",
@@ -82,7 +106,13 @@
    "tiles": 10064,
    "tilesBytes": 27168840,
    "gazetteerBytes": 1043021,
-   "places": 13627
+   "places": 13627,
+   "tilesSha256": "f98ed9833a960db1cf10cb7f693182d09aa9b6ee98c1dd3a9b86db975f5884ae",
+   "gazetteerSha256": "784e9652808e29ead834c297bb0e353007f94dce9d970762cec2e495b98ab8bf",
+   "graphBytes": 6372844,
+   "graphSha256": "6f86728b43c2a2e9d61d356cf72e89852698e69871afa186b56d49a60b1e1a33",
+   "placesBytes": 579806,
+   "placesSha256": "c514c13a14a0b43533816149068d4c8abcc7ccdd719de2f5abed5fd25622d17f"
   },
   {
    "id": "anbar",
@@ -97,7 +127,13 @@
    "tiles": 28824,
    "tilesBytes": 25904393,
    "gazetteerBytes": 234567,
-   "places": 2684
+   "places": 2684,
+   "tilesSha256": "8136107eb104f5c236ef4cfd5846c043ae4bad3172b3dab860c6cb0c4aa6acd4",
+   "gazetteerSha256": "f7d1af768512cdd4c8241111d070adffe43cc5f458bac1773448a00b9f7b86e2",
+   "graphBytes": 6266083,
+   "graphSha256": "bf3b709821c8458557243d86ed627a8256d495adb7e2e9d06895792f33ba8ab4",
+   "placesBytes": 869016,
+   "placesSha256": "531cfbd13c72b9dc9d2497bf5999d2d25f6fdf1cba8e9029decb30b26337c76d"
   },
   {
    "id": "baghdad",
@@ -112,7 +148,13 @@
    "tiles": 3577,
    "tilesBytes": 16058635,
    "gazetteerBytes": 1988932,
-   "places": 25321
+   "places": 25321,
+   "tilesSha256": "81c2c048ddd2f632e9d65e19c76811d9476f15cd00458e56908870a4f61238a8",
+   "gazetteerSha256": "84b673494e90a189e030a73d0cc4afb5c68f999279beb1a828031e57d4a0a604",
+   "graphBytes": 7265076,
+   "graphSha256": "ce90cd85f1c6b65d6630aa579691d28dc452a156776ec13fad74bdcb4a363e18",
+   "placesBytes": 1732055,
+   "placesSha256": "fd2ce2c9f4f9954aceb5c82a2829201f90845433ec14f8f318df804e168c4eb1"
   },
   {
    "id": "diyala",
@@ -127,7 +169,13 @@
    "tiles": 9932,
    "tilesBytes": 28517663,
    "gazetteerBytes": 328291,
-   "places": 3625
+   "places": 3625,
+   "tilesSha256": "32129f12271678b94743636eaf962cdf14df3835779beb075dd39323dbb98306",
+   "gazetteerSha256": "027e1b84a003b768b2f05a2cabce28a7ebecb712f8cc41b2ac342068311af52f",
+   "graphBytes": 8444270,
+   "graphSha256": "eba4f0e1580eb99c5f7621a681fe1637cc473e90cf707fe1a64fbb0ddfac2867",
+   "placesBytes": 1796461,
+   "placesSha256": "605eeb273cffc855fbd09f783f664b1912fc45ead369c0abe6053b1667258960"
   },
   {
    "id": "saladin",
@@ -142,7 +190,13 @@
    "tiles": 16330,
    "tilesBytes": 29149578,
    "gazetteerBytes": 352476,
-   "places": 3841
+   "places": 3841,
+   "tilesSha256": "821e1d32e0729b310acd92548a862b084ce54af464c3f4237d24163f378f539d",
+   "gazetteerSha256": "09c2f0a3f08d0ac3ae519140faa6192171b17aaa033f3b82d8d9c8aedc7a3ab4",
+   "graphBytes": 6384623,
+   "graphSha256": "4e5628eeb42478afd96394f1dd056899f1cc92e7160736fd18cad9f796f72046",
+   "placesBytes": 662110,
+   "placesSha256": "44635188e96c876e48feb609e3f7ec30fc1965e5750ac4869ed8c43885d123f2"
   },
   {
    "id": "qadisiyah",
@@ -157,7 +211,13 @@
    "tiles": 5098,
    "tilesBytes": 9159983,
    "gazetteerBytes": 118357,
-   "places": 1269
+   "places": 1269,
+   "tilesSha256": "02179ffc71bc20f48d1db8c2bcaf04c8c102d5962c005c91427dda2904ea0f11",
+   "gazetteerSha256": "87c506109409a2da5097b70b8d7dcc3250dfb5ea8804e7668bbc6a7890d03461",
+   "graphBytes": 3326320,
+   "graphSha256": "64b14c80b742a161b52632027e9977b6352470a8be83b57d7820713261368c9a",
+   "placesBytes": 706201,
+   "placesSha256": "703f79424403214fa5b1ef54a1b8944e01d11011c3dea285f25b7cbbc910db8f"
   },
   {
    "id": "babil",
@@ -172,7 +232,13 @@
    "tiles": 3932,
    "tilesBytes": 10715431,
    "gazetteerBytes": 186364,
-   "places": 2019
+   "places": 2019,
+   "tilesSha256": "8b7c4b016e48400678d33cbf5d8d8a7dfec3f5e5907027ef2e03ee6327d4c836",
+   "gazetteerSha256": "08c9f3e2b1b08659e53cd394f7c767b79af4d115c1ad68dd8777341e22cc430a",
+   "graphBytes": 4771716,
+   "graphSha256": "fcafb6179e774f9cbc831e18cc75099a2a16d4dca67d368a430458009ffa5b81",
+   "placesBytes": 747520,
+   "placesSha256": "b904e32f99043cef3067d704180619f52c8270de1bf0286576ea2dcd1fa2c251"
   },
   {
    "id": "basra",
@@ -187,7 +253,13 @@
    "tiles": 11138,
    "tilesBytes": 9384360,
    "gazetteerBytes": 478723,
-   "places": 5208
+   "places": 5208,
+   "tilesSha256": "b8e05a169707d5afe8981a2ba1296e45cde73aa370d78f4262ed16a3f57e6b27",
+   "gazetteerSha256": "d80e75733f123fb5fd8d521d5175e61b39329e6492b11b329884d11d5b23e792",
+   "graphBytes": 3486134,
+   "graphSha256": "28e47513e6576b11c3c141b7c2ee9c2bd3efa6936bf8a7596f952afca8b71709",
+   "placesBytes": 628822,
+   "placesSha256": "a1e18f934f2550ab8d99501bf85f5f69bfb55d8f500f438587c30a7543e2ce0b"
   },
   {
    "id": "dhiqar",
@@ -202,7 +274,13 @@
    "tiles": 6964,
    "tilesBytes": 7137178,
    "gazetteerBytes": 235202,
-   "places": 2468
+   "places": 2468,
+   "tilesSha256": "969b2dd34bcd13809b719ce4e723b08f1d94751c0bb72a1a83a16fc73d97bafc",
+   "gazetteerSha256": "a75b81c7b54774891f5963f83d526181ca0c4467b65365b46a415e49106e8784",
+   "graphBytes": 2434361,
+   "graphSha256": "cd198f46c503db59a3d5fe43026375d1cc6a28729467d211a82d79ae8e1770f4",
+   "placesBytes": 337685,
+   "placesSha256": "dfa62a6923ccf3c9854170868da0f2b6ae6bf96a51c089f0192fa6a4fc946b7d"
   },
   {
    "id": "karbala",
@@ -217,7 +295,13 @@
    "tiles": 2046,
    "tilesBytes": 5509877,
    "gazetteerBytes": 370077,
-   "places": 3698
+   "places": 3698,
+   "tilesSha256": "4a1cb6c5ee1224d291621ccd6a1a621a47ae00a7914310d53b67c7ac380de479",
+   "gazetteerSha256": "2a0ad73a5021d507d8d620df2d8b0be1a641ff137af44e70ddaa30c2a19c43b3",
+   "graphBytes": 2107566,
+   "graphSha256": "cb14a3d558e3cc27420137180351d0fefc37aacfcb2ac2afda773ec25d02ffc4",
+   "placesBytes": 598410,
+   "placesSha256": "f97c2f0078b8465dbed800b4b476d87e82f5fa752456d7320138a3fef71182ff"
   },
   {
    "id": "maysan",
@@ -232,7 +316,13 @@
    "tiles": 6279,
    "tilesBytes": 4810123,
    "gazetteerBytes": 97408,
-   "places": 1102
+   "places": 1102,
+   "tilesSha256": "113f97750dc35ff398ff6ca3f72f729355c3b1c2929030eb36bc1b09ecb8bfb8",
+   "gazetteerSha256": "50d01ade2ce988c7298a7dea81f4fa07191e900a68435ba51dc94eaa10ecb0a5",
+   "graphBytes": 1254351,
+   "graphSha256": "6958e1c4223d53ba45b4a717dcf690aff31dc7c6186501af246cb186ad49b395",
+   "placesBytes": 149334,
+   "placesSha256": "6e6ac0e35f883eeff670d882550be60e0cffce0880b03b1664c6958cc6c26d28"
   },
   {
    "id": "muthanna",
@@ -247,7 +337,13 @@
    "tiles": 14737,
    "tilesBytes": 9456695,
    "gazetteerBytes": 130961,
-   "places": 1476
+   "places": 1476,
+   "tilesSha256": "9fad34832097e33c22a542dbf0956f439453d3742fd5e31fd4419d3bd00f20bb",
+   "gazetteerSha256": "1e81f27f542e6ecced696a081ad4b4f51fc806505507a2d1a1cbd4ec089726f1",
+   "graphBytes": 2619648,
+   "graphSha256": "5b27b8f057dfa7d34792bc32e3eec97d6da20cd7d2cded98ce0ed4eec101c06b",
+   "placesBytes": 399235,
+   "placesSha256": "a22fc2e188cdbb89764b5a0f77cd62395725721548a4d038c3f6c12b200e2e24"
   },
   {
    "id": "najaf",
@@ -262,7 +358,13 @@
    "tiles": 5575,
    "tilesBytes": 7051548,
    "gazetteerBytes": 401854,
-   "places": 4400
+   "places": 4400,
+   "tilesSha256": "e6f1c3acc8c46f8f0aa3130a472f7bbb03406f674618af38c7df563f15306b9c",
+   "gazetteerSha256": "56070a75ad1726084bffc3ea56e63a8c7b972d4b88e474a9c1ab415b49a2e87e",
+   "graphBytes": 2132361,
+   "graphSha256": "dd1eb0fc3892cc42de676240fd9c700dabf916a37b842333b765fb8d19fd02d2",
+   "placesBytes": 719993,
+   "placesSha256": "6fb277bc065bf8ea34cbf1943fd262c0f1489f8f351f8085821da66de94767c1"
   },
   {
    "id": "wasit",
@@ -277,7 +379,13 @@
    "tiles": 8146,
    "tilesBytes": 9228762,
    "gazetteerBytes": 100340,
-   "places": 1124
+   "places": 1124,
+   "tilesSha256": "032266a6a85d85546319ecaedf5bb61efe03447c50cf09fbe0f1fe60a516c260",
+   "gazetteerSha256": "0e887ddb52ae20d8936e0751a5fcdfca99f12c1837299348155e1341df56b5f7",
+   "graphBytes": 3599779,
+   "graphSha256": "924450dd9d5b233579ddebad2ffa31ad5b126a49221dc66eaa074b06c7d5e47a",
+   "placesBytes": 366337,
+   "placesSha256": "c620ac8826a30bd3fe5bb64c679e107f57bf9fa9aafc21b2e46f5f0f6511c0d5"
   },
   {
    "id": "halabja",
@@ -292,7 +400,20 @@
    "tiles": 773,
    "tilesBytes": 2751114,
    "gazetteerBytes": 36556,
-   "places": 434
+   "places": 434,
+   "tilesSha256": "b2554b5c9beb0476c9fd1a8b871715ccb6485a670cf7494876bf293a7fafb010",
+   "gazetteerSha256": "cfb335bea6f6576b1dc007fb9ad9e56fb0e69dbbfb8c4617c87f44f3ffb5621f",
+   "graphBytes": 494322,
+   "graphSha256": "8e682b9b8afb821a7aaadb56c64348be851f9d9cbd77b7f0ba5e410c314d0f21",
+   "placesBytes": 27997,
+   "placesSha256": "c45a5b65565deed74cee67659dd79964e3806e92e200e99845ed11cb24200162"
   }
- ]
+ ],
+ "mainGraph": {
+  "file": "iraq-main.graph.gz",
+  "bytes": 5800511,
+  "sha256": "55effc7dda0d89f7542464872a2c4193a4e7f1c5d0ac3bc0013a204a6bf73567"
+ },
+ "roadsBuilt": "2026-10-18T00:16:55.446Z",
+ "placesBuilt": "2026-10-18T11:34:28.730Z"
 }
